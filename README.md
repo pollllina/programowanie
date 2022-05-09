@@ -1,1 +1,3 @@
 # programowanie
+
+pierwszy_commit
